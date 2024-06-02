@@ -206,5 +206,16 @@ Here’s an example workflow using these commands:
     ```sh
     npm cache clean --force
     ```
+13. **View Author Name**
+ ```sh
+    npm view <package-name> author
+```
+```sh
+npm view <package-name>
+```
+***Viewing Full Package Information***
+```sh
+npm info <package-name>
+```
 
 By following these commands, you can effectively manage and publish your npm packages.
