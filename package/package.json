@@ -1,0 +1,14 @@
+{
+  "name": "mathking_lib",
+  "version": "1.0.0",
+  "description": "this is a amazing package library that simulate the force to recover the bundles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Kunal Singh",
+  "license": "MIT"
+}
